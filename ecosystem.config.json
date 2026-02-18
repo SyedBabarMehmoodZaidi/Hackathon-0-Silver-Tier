@@ -1,0 +1,68 @@
+{
+  "apps": [
+    {
+      "name": "gmail-watcher",
+      "script": "python",
+      "args": "scripts/gmail_watcher.py",
+      "cwd": "F:\\GS Assignment\\hackathon-0 emergency backup\\practice 2 silver tier",
+      "instances": 1,
+      "autorestart": true,
+      "watch": false,
+      "max_memory_restart": "500M",
+      "env": {
+        "PYTHONUNBUFFERED": "1"
+      },
+      "error_file": "Logs\\pm2-gmail-error.log",
+      "out_file": "Logs\\pm2-gmail-out.log",
+      "log_date_format": "YYYY-MM-DD HH:mm:ss"
+    },
+    {
+      "name": "linkedin-watcher",
+      "script": "python",
+      "args": "scripts/linkedin_watcher.py",
+      "cwd": "F:\\GS Assignment\\hackathon-0 emergency backup\\practice 2 silver tier",
+      "instances": 1,
+      "autorestart": true,
+      "watch": false,
+      "max_memory_restart": "500M",
+      "env": {
+        "PYTHONUNBUFFERED": "1"
+      },
+      "error_file": "Logs\\pm2-linkedin-error.log",
+      "out_file": "Logs\\pm2-linkedin-out.log",
+      "log_date_format": "YYYY-MM-DD HH:mm:ss"
+    },
+    {
+      "name": "whatsapp-web-watcher",
+      "script": "python",
+      "args": "scripts/whatsapp_web_watcher.py",
+      "cwd": "F:\\GS Assignment\\hackathon-0 emergency backup\\practice 2 silver tier",
+      "instances": 1,
+      "autorestart": true,
+      "watch": false,
+      "max_memory_restart": "500M",
+      "env": {
+        "PYTHONUNBUFFERED": "1"
+      },
+      "error_file": "Logs\\pm2-whatsapp-error.log",
+      "out_file": "Logs\\pm2-whatsapp-out.log",
+      "log_date_format": "YYYY-MM-DD HH:mm:ss"
+    },
+    {
+      "name": "orchestrator",
+      "script": "python",
+      "args": "orchestrator.py",
+      "cwd": "F:\\GS Assignment\\hackathon-0 emergency backup\\practice 2 silver tier",
+      "instances": 1,
+      "autorestart": true,
+      "watch": false,
+      "max_memory_restart": "500M",
+      "env": {
+        "PYTHONUNBUFFERED": "1"
+      },
+      "error_file": "Logs\\pm2-orchestrator-error.log",
+      "out_file": "Logs\\pm2-orchestrator-out.log",
+      "log_date_format": "YYYY-MM-DD HH:mm:ss"
+    }
+  ]
+}

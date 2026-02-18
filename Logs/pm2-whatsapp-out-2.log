@@ -1,0 +1,451 @@
+2026-02-17 23:50:00: [START] WhatsApp Web Watcher starting (interval: 60s)
+2026-02-17 23:50:00: 
+2026-02-17 23:50:00: [KEYWORDS] Watching for: ['urgent', 'invoice', 'payment', 'meeting', 'price', 'quote', 'order', 'asap', 'emergency', 'deadline', 'contract', 'deal', 'important', 'reply', 'call']
+2026-02-17 23:50:00: Starting WhatsAppWeb watcher...
+2026-02-17 23:50:02: [BROWSER] Browser started with session: F:\GS Assignment\hackathon-0 emergency backup\practice 2 silver tier\sessions\whatsapp_web
+2026-02-17 23:50:02: [INFO] Navigating to WhatsApp Web...
+2026-02-17 23:50:10: [INFO] Not logged in. Waiting for QR code scan...
+2026-02-17 23:50:10: [INFO] Waiting for QR code scan...
+2026-02-17 23:50:10: Error in WhatsAppWeb watcher: 'charmap' codec can't encode character '\u2192' in position 35: character maps to <undefined>
+2026-02-17 23:51:10: [ERROR] Failed to start browser: It looks like you are using Playwright Sync API inside the asyncio loop.
+2026-02-17 23:51:10: Please use the Async API instead.
+2026-02-17 23:51:54: [START] WhatsApp Web Watcher starting (interval: 60s)
+2026-02-17 23:51:54: 
+2026-02-17 23:51:54: [KEYWORDS] Watching for: ['urgent', 'invoice', 'payment', 'meeting', 'price', 'quote', 'order', 'asap', 'emergency', 'deadline', 'contract', 'deal', 'important', 'reply', 'call']
+2026-02-17 23:51:54: Starting WhatsAppWeb watcher...
+2026-02-17 23:51:56: [ERROR] Failed to start browser: BrowserType.launch_persistent_context: Failed to create a ProcessSingleton for your profile directory. This usually means that the profile is already in use by another instance of Chromium.
+2026-02-17 23:51:56: Call log:
+2026-02-17 23:51:56:   - <launching> C:\Users\pc\AppData\Local\ms-playwright\chromium-1208\chrome-win64\chrome.exe --disable-field-trial-config --disable-background-networking --disable-background-timer-throttling --disable-backgrounding-occluded-windows --disable-back-forward-cache --disable-breakpad --disable-client-side-phishing-detection --disable-component-extensions-with-background-pages --disable-component-update --no-default-browser-check --disable-default-apps --disable-dev-shm-usage --disable-extensions --disable-features=AvoidUnnecessaryBeforeUnloadCheckSync,BoundaryEventDispatchTracksNodeRemoval,DestroyProfileOnBrowserClose,DialMediaRouteProvider,GlobalMediaControls,HttpsUpgrades,LensOverlay,MediaRouter,PaintHolding,ThirdPartyStoragePartitioning,Translate,AutoDeElevate,RenderDocument,OptimizationHints --enable-features=CDPScreenshotNewSurface --allow-pre-commit-input --disable-hang-monitor --disable-ipc-flooding-protection --disable-popup-blocking --disable-prompt-on-repost --disable-renderer-backgrounding --force-color-profile=srgb --metrics-recording-only --no-first-run --password-store=basic --use-mock-keychain --no-service-autorun --export-tagged-pdf --disable-search-engine-choice-screen --unsafely-disable-devtools-self-xss-warnings --edge-skip-compat-layer-relaunch --enable-automation --disable-infobars --disable-search-engine-choice-screen --disable-sync --enable-unsafe-swiftshader --no-sandbox --disable-blink-features=AutomationControlled --disable-dev-shm-usage --no-sandbox --user-data-dir=F:\GS Assignment\hackathon-0 emergency backup\practice 2 silver tier\sessions\whatsapp_web --remote-debugging-pipe about:blank
+2026-02-17 23:51:56:   - <launched> pid=188352
+2026-02-17 23:51:56:   - [pid=188352][err] [188352:188356:0217/235156.734:ERROR:chrome\browser\process_singleton_win.cc:421] Lock file can not be created! Error code: 32
+2026-02-17 23:51:56:   - [pid=188352][err] [188352:188356:0217/235156.734:ERROR:chrome\app\chrome_main_delegate.cc:513] Failed to create a ProcessSingleton for your profile directory. This means that running multiple instances would start multiple browser processes rather than opening a new window in the existing process. Aborting now to avoid profile corruption.
+2026-02-17 23:51:56:   - [pid=188352] <gracefully close start>
+2026-02-17 23:51:56:   - [pid=188352] <kill>
+2026-02-17 23:51:56:   - [pid=188352] <will force kill>
+2026-02-17 23:51:56:   - [pid=188352] taskkill stderr: ERROR: The process "188352" not found.
+2026-02-17 23:51:56:   - [pid=188352] <process did exit: exitCode=21, signal=null>
+2026-02-17 23:51:56:   - [pid=188352] starting temporary directories cleanup
+2026-02-17 23:51:56:   - [pid=188352] finished temporary directories cleanup
+2026-02-17 23:51:56:   - [pid=188352] <gracefully close end>
+2026-02-17 23:51:56: 
+2026-02-17 23:52:56: [ERROR] Failed to start browser: It looks like you are using Playwright Sync API inside the asyncio loop.
+2026-02-17 23:52:56: Please use the Async API instead.
+2026-02-17 23:53:56: [ERROR] Failed to start browser: It looks like you are using Playwright Sync API inside the asyncio loop.
+2026-02-17 23:53:56: 
+2026-02-17 23:54:56: [ERROR] Failed to start browser: It looks like you are using Playwright Sync API inside the asyncio loop.
+2026-02-17 23:54:56: Please use the Async API instead.
+2026-02-17 23:55:56: [ERROR] Failed to start browser: It looks like you are using Playwright Sync API inside the asyncio loop.
+2026-02-17 23:55:56: Please use the Async API instead.
+2026-02-17 23:56:56: [ERROR] Failed to start browser: It looks like you are using Playwright Sync API inside the asyncio loop.
+2026-02-17 23:56:56: Please use the Async API instead.
+2026-02-17 23:57:56: [ERROR] Failed to start browser: It looks like you are using Playwright Sync API inside the asyncio loop.
+2026-02-17 23:57:56: Please use the Async API instead.
+2026-02-17 23:58:56: [ERROR] Failed to start browser: It looks like you are using Playwright Sync API inside the asyncio loop.
+2026-02-17 23:58:56: Please use the Async API instead.
+2026-02-17 23:59:56: [ERROR] Failed to start browser: It looks like you are using Playwright Sync API inside the asyncio loop.
+2026-02-17 23:59:56: Please use the Async API instead.
+2026-02-18 00:00:56: [ERROR] Failed to start browser: It looks like you are using Playwright Sync API inside the asyncio loop.
+2026-02-18 00:00:56: Please use the Async API instead.
+2026-02-18 00:01:56: [ERROR] Failed to start browser: It looks like you are using Playwright Sync API inside the asyncio loop.
+2026-02-18 00:01:56: Please use the Async API instead.
+2026-02-18 00:02:56: [ERROR] Failed to start browser: It looks like you are using Playwright Sync API inside the asyncio loop.
+2026-02-18 00:02:56: Please use the Async API instead.
+2026-02-18 00:03:56: [ERROR] Failed to start browser: It looks like you are using Playwright Sync API inside the asyncio loop.
+2026-02-18 00:03:56: Please use the Async API instead.
+2026-02-18 00:04:56: [ERROR] Failed to start browser: It looks like you are using Playwright Sync API inside the asyncio loop.
+2026-02-18 00:04:56: Please use the Async API instead.
+2026-02-18 00:05:56: [ERROR] Failed to start browser: It looks like you are using Playwright Sync API inside the asyncio loop.
+2026-02-18 00:05:56: Please use the Async API instead.
+2026-02-18 00:06:56: [ERROR] Failed to start browser: It looks like you are using Playwright Sync API inside the asyncio loop.
+2026-02-18 00:06:56: Please use the Async API instead.
+2026-02-18 00:07:56: [ERROR] Failed to start browser: It looks like you are using Playwright Sync API inside the asyncio loop.
+2026-02-18 00:07:56: Please use the Async API instead.
+2026-02-18 00:08:56: [ERROR] Failed to start browser: It looks like you are using Playwright Sync API inside the asyncio loop.
+2026-02-18 00:08:56: Please use the Async API instead.
+2026-02-18 00:09:56: [ERROR] Failed to start browser: It looks like you are using Playwright Sync API inside the asyncio loop.
+2026-02-18 00:09:56: Please use the Async API instead.
+2026-02-18 00:10:56: [ERROR] Failed to start browser: It looks like you are using Playwright Sync API inside the asyncio loop.
+2026-02-18 00:10:56: 
+2026-02-18 00:11:56: [ERROR] Failed to start browser: It looks like you are using Playwright Sync API inside the asyncio loop.
+2026-02-18 00:11:56: 
+2026-02-18 00:12:56: [ERROR] Failed to start browser: It looks like you are using Playwright Sync API inside the asyncio loop.
+2026-02-18 00:12:56: Please use the Async API instead.
+2026-02-18 00:13:56: [ERROR] Failed to start browser: It looks like you are using Playwright Sync API inside the asyncio loop.
+2026-02-18 00:13:56: 
+2026-02-18 00:14:56: [ERROR] Failed to start browser: It looks like you are using Playwright Sync API inside the asyncio loop.
+2026-02-18 00:14:56: Please use the Async API instead.
+2026-02-18 00:15:50: [START] WhatsApp Web Watcher starting (interval: 60s)
+2026-02-18 00:15:50: 
+2026-02-18 00:15:50: [KEYWORDS] Watching for: ['urgent', 'invoice', 'payment', 'meeting', 'price', 'quote', 'order', 'asap', 'emergency', 'deadline', 'contract', 'deal', 'important', 'reply', 'call']
+2026-02-18 00:15:50: Starting WhatsAppWeb watcher...
+2026-02-18 00:15:52: [ERROR] Failed to start browser: BrowserType.launch_persistent_context: Target page, context or browser has been closed
+2026-02-18 00:15:52: Browser logs:
+2026-02-18 00:15:52: 
+2026-02-18 00:15:52: <launching> C:\Users\pc\AppData\Local\ms-playwright\chromium-1208\chrome-win64\chrome.exe --disable-field-trial-config --disable-background-networking --disable-background-timer-throttling --disable-backgrounding-occluded-windows --disable-back-forward-cache --disable-breakpad --disable-client-side-phishing-detection --disable-component-extensions-with-background-pages --disable-component-update --no-default-browser-check --disable-default-apps --disable-dev-shm-usage --disable-extensions --disable-features=AvoidUnnecessaryBeforeUnloadCheckSync,BoundaryEventDispatchTracksNodeRemoval,DestroyProfileOnBrowserClose,DialMediaRouteProvider,GlobalMediaControls,HttpsUpgrades,LensOverlay,MediaRouter,PaintHolding,ThirdPartyStoragePartitioning,Translate,AutoDeElevate,RenderDocument,OptimizationHints --enable-features=CDPScreenshotNewSurface --allow-pre-commit-input --disable-hang-monitor --disable-ipc-flooding-protection --disable-popup-blocking --disable-prompt-on-repost --disable-renderer-backgrounding --force-color-profile=srgb --metrics-recording-only --no-first-run --password-store=basic --use-mock-keychain --no-service-autorun --export-tagged-pdf --disable-search-engine-choice-screen --unsafely-disable-devtools-self-xss-warnings --edge-skip-compat-layer-relaunch --enable-automation --disable-infobars --disable-search-engine-choice-screen --disable-sync --enable-unsafe-swiftshader --no-sandbox --disable-blink-features=AutomationControlled --disable-dev-shm-usage --no-sandbox --user-data-dir=F:\GS Assignment\hackathon-0 emergency backup\practice 2 silver tier\sessions\whatsapp_web --remote-debugging-pipe about:blank
+2026-02-18 00:15:52: <launched> pid=191716
+2026-02-18 00:15:52: Call log:
+2026-02-18 00:15:52:   - <launching> C:\Users\pc\AppData\Local\ms-playwright\chromium-1208\chrome-win64\chrome.exe --disable-field-trial-config --disable-background-networking --disable-background-timer-throttling --disable-backgrounding-occluded-windows --disable-back-forward-cache --disable-breakpad --disable-client-side-phishing-detection --disable-component-extensions-with-background-pages --disable-component-update --no-default-browser-check --disable-default-apps --disable-dev-shm-usage --disable-extensions --disable-features=AvoidUnnecessaryBeforeUnloadCheckSync,BoundaryEventDispatchTracksNodeRemoval,DestroyProfileOnBrowserClose,DialMediaRouteProvider,GlobalMediaControls,HttpsUpgrades,LensOverlay,MediaRouter,PaintHolding,ThirdPartyStoragePartitioning,Translate,AutoDeElevate,RenderDocument,OptimizationHints --enable-features=CDPScreenshotNewSurface --allow-pre-commit-input --disable-hang-monitor --disable-ipc-flooding-protection --disable-popup-blocking --disable-prompt-on-repost --disable-renderer-backgrounding --force-color-profile=srgb --metrics-recording-only --no-first-run --password-store=basic --use-mock-keychain --no-service-autorun --export-tagged-pdf --disable-search-engine-choice-screen --unsafely-disable-devtools-self-xss-warnings --edge-skip-compat-layer-relaunch --enable-automation --disable-infobars --disable-search-engine-choice-screen --disable-sync --enable-unsafe-swiftshader --no-sandbox --disable-blink-features=AutomationControlled --disable-dev-shm-usage --no-sandbox --user-data-dir=F:\GS Assignment\hackathon-0 emergency backup\practice 2 silver tier\sessions\whatsapp_web --remote-debugging-pipe about:blank
+2026-02-18 00:15:52:   - <launched> pid=191716
+2026-02-18 00:15:52:   - [pid=191716] <gracefully close start>
+2026-02-18 00:15:52:   - [pid=191716] <kill>
+2026-02-18 00:15:52:   - [pid=191716] <will force kill>
+2026-02-18 00:15:52:   - [pid=191716] taskkill stderr: ERROR: The process "191716" not found.
+2026-02-18 00:15:52:   - [pid=191716] <process did exit: exitCode=21, signal=null>
+2026-02-18 00:15:52:   - [pid=191716] starting temporary directories cleanup
+2026-02-18 00:15:52:   - [pid=191716] finished temporary directories cleanup
+2026-02-18 00:15:52:   - [pid=191716] <gracefully close end>
+2026-02-18 00:15:52: 
+2026-02-18 00:16:52: [ERROR] Failed to start browser: It looks like you are using Playwright Sync API inside the asyncio loop.
+2026-02-18 00:16:52: Please use the Async API instead.
+2026-02-18 00:17:52: [ERROR] Failed to start browser: It looks like you are using Playwright Sync API inside the asyncio loop.
+2026-02-18 00:17:52: Please use the Async API instead.
+2026-02-18 00:18:52: [ERROR] Failed to start browser: It looks like you are using Playwright Sync API inside the asyncio loop.
+2026-02-18 00:18:52: Please use the Async API instead.
+2026-02-18 00:19:52: [ERROR] Failed to start browser: It looks like you are using Playwright Sync API inside the asyncio loop.
+2026-02-18 00:19:52: Please use the Async API instead.
+2026-02-18 00:20:52: [ERROR] Failed to start browser: It looks like you are using Playwright Sync API inside the asyncio loop.
+2026-02-18 00:20:52: Please use the Async API instead.
+2026-02-18 00:21:52: [ERROR] Failed to start browser: It looks like you are using Playwright Sync API inside the asyncio loop.
+2026-02-18 00:21:52: Please use the Async API instead.
+2026-02-18 00:22:52: [ERROR] Failed to start browser: It looks like you are using Playwright Sync API inside the asyncio loop.
+2026-02-18 00:22:52: Please use the Async API instead.
+2026-02-18 00:23:52: [ERROR] Failed to start browser: It looks like you are using Playwright Sync API inside the asyncio loop.
+2026-02-18 00:23:52: Please use the Async API instead.
+2026-02-18 00:24:52: [ERROR] Failed to start browser: It looks like you are using Playwright Sync API inside the asyncio loop.
+2026-02-18 00:24:52: Please use the Async API instead.
+2026-02-18 00:25:52: [ERROR] Failed to start browser: It looks like you are using Playwright Sync API inside the asyncio loop.
+2026-02-18 00:25:52: Please use the Async API instead.
+2026-02-18 00:26:52: [ERROR] Failed to start browser: It looks like you are using Playwright Sync API inside the asyncio loop.
+2026-02-18 00:26:52: 
+2026-02-18 00:27:52: [ERROR] Failed to start browser: It looks like you are using Playwright Sync API inside the asyncio loop.
+2026-02-18 00:27:52: Please use the Async API instead.
+2026-02-18 00:28:52: [ERROR] Failed to start browser: It looks like you are using Playwright Sync API inside the asyncio loop.
+2026-02-18 00:28:52: 
+2026-02-18 00:29:52: [ERROR] Failed to start browser: It looks like you are using Playwright Sync API inside the asyncio loop.
+2026-02-18 00:29:52: Please use the Async API instead.
+2026-02-18 00:30:52: [ERROR] Failed to start browser: It looks like you are using Playwright Sync API inside the asyncio loop.
+2026-02-18 00:30:52: Please use the Async API instead.
+2026-02-18 00:31:52: [ERROR] Failed to start browser: It looks like you are using Playwright Sync API inside the asyncio loop.
+2026-02-18 00:31:52: Please use the Async API instead.
+2026-02-18 00:32:52: [ERROR] Failed to start browser: It looks like you are using Playwright Sync API inside the asyncio loop.
+2026-02-18 00:32:52: Please use the Async API instead.
+2026-02-18 00:33:52: [ERROR] Failed to start browser: It looks like you are using Playwright Sync API inside the asyncio loop.
+2026-02-18 00:33:52: 
+2026-02-18 00:34:52: [ERROR] Failed to start browser: It looks like you are using Playwright Sync API inside the asyncio loop.
+2026-02-18 00:34:52: 
+2026-02-18 00:35:52: [ERROR] Failed to start browser: It looks like you are using Playwright Sync API inside the asyncio loop.
+2026-02-18 00:35:52: Please use the Async API instead.
+2026-02-18 00:36:52: [ERROR] Failed to start browser: It looks like you are using Playwright Sync API inside the asyncio loop.
+2026-02-18 00:36:52: Please use the Async API instead.
+2026-02-18 00:37:52: [ERROR] Failed to start browser: It looks like you are using Playwright Sync API inside the asyncio loop.
+2026-02-18 00:37:52: Please use the Async API instead.
+2026-02-18 00:38:52: [ERROR] Failed to start browser: It looks like you are using Playwright Sync API inside the asyncio loop.
+2026-02-18 00:38:52: Please use the Async API instead.
+2026-02-18 00:39:52: [ERROR] Failed to start browser: It looks like you are using Playwright Sync API inside the asyncio loop.
+2026-02-18 00:39:52: Please use the Async API instead.
+2026-02-18 00:40:52: [ERROR] Failed to start browser: It looks like you are using Playwright Sync API inside the asyncio loop.
+2026-02-18 00:40:52: Please use the Async API instead.
+2026-02-18 00:41:52: [ERROR] Failed to start browser: It looks like you are using Playwright Sync API inside the asyncio loop.
+2026-02-18 00:41:52: 
+2026-02-18 00:42:52: [ERROR] Failed to start browser: It looks like you are using Playwright Sync API inside the asyncio loop.
+2026-02-18 00:42:52: Please use the Async API instead.
+2026-02-18 00:43:52: [ERROR] Failed to start browser: It looks like you are using Playwright Sync API inside the asyncio loop.
+2026-02-18 00:43:52: Please use the Async API instead.
+2026-02-18 00:44:52: [ERROR] Failed to start browser: It looks like you are using Playwright Sync API inside the asyncio loop.
+2026-02-18 00:44:52: Please use the Async API instead.
+2026-02-18 00:45:52: [ERROR] Failed to start browser: It looks like you are using Playwright Sync API inside the asyncio loop.
+2026-02-18 00:45:52: Please use the Async API instead.
+2026-02-18 00:46:52: [ERROR] Failed to start browser: It looks like you are using Playwright Sync API inside the asyncio loop.
+2026-02-18 00:46:52: Please use the Async API instead.
+2026-02-18 00:47:52: [ERROR] Failed to start browser: It looks like you are using Playwright Sync API inside the asyncio loop.
+2026-02-18 00:47:52: Please use the Async API instead.
+2026-02-18 00:48:52: [ERROR] Failed to start browser: It looks like you are using Playwright Sync API inside the asyncio loop.
+2026-02-18 00:48:52: Please use the Async API instead.
+2026-02-18 00:49:52: [ERROR] Failed to start browser: It looks like you are using Playwright Sync API inside the asyncio loop.
+2026-02-18 00:49:52: 
+2026-02-18 00:50:52: [ERROR] Failed to start browser: It looks like you are using Playwright Sync API inside the asyncio loop.
+2026-02-18 00:50:52: Please use the Async API instead.
+2026-02-18 00:51:52: [ERROR] Failed to start browser: It looks like you are using Playwright Sync API inside the asyncio loop.
+2026-02-18 00:51:52: 
+2026-02-18 00:52:52: [ERROR] Failed to start browser: It looks like you are using Playwright Sync API inside the asyncio loop.
+2026-02-18 00:52:52: Please use the Async API instead.
+2026-02-18 00:53:52: [ERROR] Failed to start browser: It looks like you are using Playwright Sync API inside the asyncio loop.
+2026-02-18 00:53:52: Please use the Async API instead.
+2026-02-18 00:54:52: [ERROR] Failed to start browser: It looks like you are using Playwright Sync API inside the asyncio loop.
+2026-02-18 00:54:52: Please use the Async API instead.
+2026-02-18 00:55:52: [ERROR] Failed to start browser: It looks like you are using Playwright Sync API inside the asyncio loop.
+2026-02-18 00:55:52: Please use the Async API instead.
+2026-02-18 00:56:52: [ERROR] Failed to start browser: It looks like you are using Playwright Sync API inside the asyncio loop.
+2026-02-18 00:56:52: Please use the Async API instead.
+2026-02-18 00:57:52: [ERROR] Failed to start browser: It looks like you are using Playwright Sync API inside the asyncio loop.
+2026-02-18 00:57:52: Please use the Async API instead.
+2026-02-18 00:58:52: [ERROR] Failed to start browser: It looks like you are using Playwright Sync API inside the asyncio loop.
+2026-02-18 00:58:52: Please use the Async API instead.
+2026-02-18 00:59:52: [ERROR] Failed to start browser: It looks like you are using Playwright Sync API inside the asyncio loop.
+2026-02-18 00:59:52: Please use the Async API instead.
+2026-02-18 01:00:52: [ERROR] Failed to start browser: It looks like you are using Playwright Sync API inside the asyncio loop.
+2026-02-18 01:00:52: Please use the Async API instead.
+2026-02-18 01:01:52: [ERROR] Failed to start browser: It looks like you are using Playwright Sync API inside the asyncio loop.
+2026-02-18 01:01:52: Please use the Async API instead.
+2026-02-18 01:02:52: [ERROR] Failed to start browser: It looks like you are using Playwright Sync API inside the asyncio loop.
+2026-02-18 01:02:52: Please use the Async API instead.
+2026-02-18 01:03:52: [ERROR] Failed to start browser: It looks like you are using Playwright Sync API inside the asyncio loop.
+2026-02-18 01:03:52: Please use the Async API instead.
+2026-02-18 01:04:52: [ERROR] Failed to start browser: It looks like you are using Playwright Sync API inside the asyncio loop.
+2026-02-18 01:04:52: Please use the Async API instead.
+2026-02-18 01:05:52: [ERROR] Failed to start browser: It looks like you are using Playwright Sync API inside the asyncio loop.
+2026-02-18 01:05:52: Please use the Async API instead.
+2026-02-18 01:06:52: [ERROR] Failed to start browser: It looks like you are using Playwright Sync API inside the asyncio loop.
+2026-02-18 01:06:52: Please use the Async API instead.
+2026-02-18 01:07:52: [ERROR] Failed to start browser: It looks like you are using Playwright Sync API inside the asyncio loop.
+2026-02-18 01:07:52: 
+2026-02-18 01:08:52: [ERROR] Failed to start browser: It looks like you are using Playwright Sync API inside the asyncio loop.
+2026-02-18 01:08:52: Please use the Async API instead.
+2026-02-18 01:09:52: [ERROR] Failed to start browser: It looks like you are using Playwright Sync API inside the asyncio loop.
+2026-02-18 01:09:52: Please use the Async API instead.
+2026-02-18 01:10:52: [ERROR] Failed to start browser: It looks like you are using Playwright Sync API inside the asyncio loop.
+2026-02-18 01:10:52: Please use the Async API instead.
+2026-02-18 01:11:52: [ERROR] Failed to start browser: It looks like you are using Playwright Sync API inside the asyncio loop.
+2026-02-18 01:11:52: Please use the Async API instead.
+2026-02-18 01:12:52: [ERROR] Failed to start browser: It looks like you are using Playwright Sync API inside the asyncio loop.
+2026-02-18 01:12:52: Please use the Async API instead.
+2026-02-18 01:13:52: [ERROR] Failed to start browser: It looks like you are using Playwright Sync API inside the asyncio loop.
+2026-02-18 01:13:52: Please use the Async API instead.
+2026-02-18 01:14:52: [ERROR] Failed to start browser: It looks like you are using Playwright Sync API inside the asyncio loop.
+2026-02-18 01:14:52: Please use the Async API instead.
+2026-02-18 01:15:52: [ERROR] Failed to start browser: It looks like you are using Playwright Sync API inside the asyncio loop.
+2026-02-18 01:15:52: Please use the Async API instead.
+2026-02-18 01:16:52: [ERROR] Failed to start browser: It looks like you are using Playwright Sync API inside the asyncio loop.
+2026-02-18 01:16:52: Please use the Async API instead.
+2026-02-18 01:17:52: [ERROR] Failed to start browser: It looks like you are using Playwright Sync API inside the asyncio loop.
+2026-02-18 01:17:52: Please use the Async API instead.
+2026-02-18 01:18:52: [ERROR] Failed to start browser: It looks like you are using Playwright Sync API inside the asyncio loop.
+2026-02-18 01:18:52: Please use the Async API instead.
+2026-02-18 01:19:52: [ERROR] Failed to start browser: It looks like you are using Playwright Sync API inside the asyncio loop.
+2026-02-18 01:19:52: Please use the Async API instead.
+2026-02-18 01:20:52: [ERROR] Failed to start browser: It looks like you are using Playwright Sync API inside the asyncio loop.
+2026-02-18 01:20:52: Please use the Async API instead.
+2026-02-18 01:21:52: [ERROR] Failed to start browser: It looks like you are using Playwright Sync API inside the asyncio loop.
+2026-02-18 01:21:52: Please use the Async API instead.
+2026-02-18 01:22:52: [ERROR] Failed to start browser: It looks like you are using Playwright Sync API inside the asyncio loop.
+2026-02-18 01:22:52: 
+2026-02-18 01:23:52: [ERROR] Failed to start browser: It looks like you are using Playwright Sync API inside the asyncio loop.
+2026-02-18 01:23:52: Please use the Async API instead.
+2026-02-18 01:24:52: [ERROR] Failed to start browser: It looks like you are using Playwright Sync API inside the asyncio loop.
+2026-02-18 01:24:52: Please use the Async API instead.
+2026-02-18 01:25:52: [ERROR] Failed to start browser: It looks like you are using Playwright Sync API inside the asyncio loop.
+2026-02-18 01:25:52: Please use the Async API instead.
+2026-02-18 01:26:52: [ERROR] Failed to start browser: It looks like you are using Playwright Sync API inside the asyncio loop.
+2026-02-18 01:26:52: Please use the Async API instead.
+2026-02-18 01:27:52: [ERROR] Failed to start browser: It looks like you are using Playwright Sync API inside the asyncio loop.
+2026-02-18 01:27:52: Please use the Async API instead.
+2026-02-18 01:28:52: [ERROR] Failed to start browser: It looks like you are using Playwright Sync API inside the asyncio loop.
+2026-02-18 01:28:52: Please use the Async API instead.
+2026-02-18 01:29:52: [ERROR] Failed to start browser: It looks like you are using Playwright Sync API inside the asyncio loop.
+2026-02-18 01:29:52: Please use the Async API instead.
+2026-02-18 01:30:52: [ERROR] Failed to start browser: It looks like you are using Playwright Sync API inside the asyncio loop.
+2026-02-18 01:30:52: Please use the Async API instead.
+2026-02-18 01:31:52: [ERROR] Failed to start browser: It looks like you are using Playwright Sync API inside the asyncio loop.
+2026-02-18 01:31:52: 
+2026-02-18 01:32:52: [ERROR] Failed to start browser: It looks like you are using Playwright Sync API inside the asyncio loop.
+2026-02-18 01:32:52: Please use the Async API instead.
+2026-02-18 01:33:52: [ERROR] Failed to start browser: It looks like you are using Playwright Sync API inside the asyncio loop.
+2026-02-18 01:33:52: Please use the Async API instead.
+2026-02-18 01:34:52: [ERROR] Failed to start browser: It looks like you are using Playwright Sync API inside the asyncio loop.
+2026-02-18 01:34:52: Please use the Async API instead.
+2026-02-18 01:35:52: [ERROR] Failed to start browser: It looks like you are using Playwright Sync API inside the asyncio loop.
+2026-02-18 01:35:52: 
+2026-02-18 01:36:52: [ERROR] Failed to start browser: It looks like you are using Playwright Sync API inside the asyncio loop.
+2026-02-18 01:36:52: Please use the Async API instead.
+2026-02-18 01:37:52: [ERROR] Failed to start browser: It looks like you are using Playwright Sync API inside the asyncio loop.
+2026-02-18 01:37:52: Please use the Async API instead.
+2026-02-18 01:38:52: [ERROR] Failed to start browser: It looks like you are using Playwright Sync API inside the asyncio loop.
+2026-02-18 01:38:52: Please use the Async API instead.
+2026-02-18 01:39:52: [ERROR] Failed to start browser: It looks like you are using Playwright Sync API inside the asyncio loop.
+2026-02-18 01:39:52: Please use the Async API instead.
+2026-02-18 01:40:52: [ERROR] Failed to start browser: It looks like you are using Playwright Sync API inside the asyncio loop.
+2026-02-18 01:40:52: Please use the Async API instead.
+2026-02-18 01:41:52: [ERROR] Failed to start browser: It looks like you are using Playwright Sync API inside the asyncio loop.
+2026-02-18 01:41:52: Please use the Async API instead.
+2026-02-18 01:42:52: [ERROR] Failed to start browser: It looks like you are using Playwright Sync API inside the asyncio loop.
+2026-02-18 01:42:52: Please use the Async API instead.
+2026-02-18 01:43:52: [ERROR] Failed to start browser: It looks like you are using Playwright Sync API inside the asyncio loop.
+2026-02-18 01:43:52: Please use the Async API instead.
+2026-02-18 01:44:52: [ERROR] Failed to start browser: It looks like you are using Playwright Sync API inside the asyncio loop.
+2026-02-18 01:44:52: 
+2026-02-18 01:45:52: [ERROR] Failed to start browser: It looks like you are using Playwright Sync API inside the asyncio loop.
+2026-02-18 01:45:52: Please use the Async API instead.
+2026-02-18 01:46:52: [ERROR] Failed to start browser: It looks like you are using Playwright Sync API inside the asyncio loop.
+2026-02-18 01:46:52: Please use the Async API instead.
+2026-02-18 01:47:52: [ERROR] Failed to start browser: It looks like you are using Playwright Sync API inside the asyncio loop.
+2026-02-18 01:47:52: 
+2026-02-18 01:48:52: [ERROR] Failed to start browser: It looks like you are using Playwright Sync API inside the asyncio loop.
+2026-02-18 01:48:52: 
+2026-02-18 01:49:52: [ERROR] Failed to start browser: It looks like you are using Playwright Sync API inside the asyncio loop.
+2026-02-18 01:49:52: Please use the Async API instead.
+2026-02-18 01:50:52: [ERROR] Failed to start browser: It looks like you are using Playwright Sync API inside the asyncio loop.
+2026-02-18 01:50:52: Please use the Async API instead.
+2026-02-18 01:51:52: [ERROR] Failed to start browser: It looks like you are using Playwright Sync API inside the asyncio loop.
+2026-02-18 01:51:52: Please use the Async API instead.
+2026-02-18 01:52:52: [ERROR] Failed to start browser: It looks like you are using Playwright Sync API inside the asyncio loop.
+2026-02-18 01:52:52: Please use the Async API instead.
+2026-02-18 01:53:52: [ERROR] Failed to start browser: It looks like you are using Playwright Sync API inside the asyncio loop.
+2026-02-18 01:53:52: Please use the Async API instead.
+2026-02-18 01:54:52: [ERROR] Failed to start browser: It looks like you are using Playwright Sync API inside the asyncio loop.
+2026-02-18 01:54:52: Please use the Async API instead.
+2026-02-18 01:55:52: [ERROR] Failed to start browser: It looks like you are using Playwright Sync API inside the asyncio loop.
+2026-02-18 01:55:52: Please use the Async API instead.
+2026-02-18 01:56:52: [ERROR] Failed to start browser: It looks like you are using Playwright Sync API inside the asyncio loop.
+2026-02-18 01:56:52: Please use the Async API instead.
+2026-02-18 01:57:52: [ERROR] Failed to start browser: It looks like you are using Playwright Sync API inside the asyncio loop.
+2026-02-18 01:57:52: Please use the Async API instead.
+2026-02-18 01:58:52: [ERROR] Failed to start browser: It looks like you are using Playwright Sync API inside the asyncio loop.
+2026-02-18 01:58:52: Please use the Async API instead.
+2026-02-18 01:59:52: [ERROR] Failed to start browser: It looks like you are using Playwright Sync API inside the asyncio loop.
+2026-02-18 01:59:52: Please use the Async API instead.
+2026-02-18 02:00:52: [ERROR] Failed to start browser: It looks like you are using Playwright Sync API inside the asyncio loop.
+2026-02-18 02:00:52: Please use the Async API instead.
+2026-02-18 02:01:52: [ERROR] Failed to start browser: It looks like you are using Playwright Sync API inside the asyncio loop.
+2026-02-18 02:01:52: Please use the Async API instead.
+2026-02-18 02:02:52: [ERROR] Failed to start browser: It looks like you are using Playwright Sync API inside the asyncio loop.
+2026-02-18 02:02:52: Please use the Async API instead.
+2026-02-18 02:03:52: [ERROR] Failed to start browser: It looks like you are using Playwright Sync API inside the asyncio loop.
+2026-02-18 02:03:52: 
+2026-02-18 02:04:52: [ERROR] Failed to start browser: It looks like you are using Playwright Sync API inside the asyncio loop.
+2026-02-18 02:04:52: Please use the Async API instead.
+2026-02-18 02:05:52: [ERROR] Failed to start browser: It looks like you are using Playwright Sync API inside the asyncio loop.
+2026-02-18 02:05:52: Please use the Async API instead.
+2026-02-18 02:06:52: [ERROR] Failed to start browser: It looks like you are using Playwright Sync API inside the asyncio loop.
+2026-02-18 02:06:52: Please use the Async API instead.
+2026-02-18 02:07:52: [ERROR] Failed to start browser: It looks like you are using Playwright Sync API inside the asyncio loop.
+2026-02-18 02:07:52: Please use the Async API instead.
+2026-02-18 02:08:52: [ERROR] Failed to start browser: It looks like you are using Playwright Sync API inside the asyncio loop.
+2026-02-18 02:08:52: Please use the Async API instead.
+2026-02-18 02:09:52: [ERROR] Failed to start browser: It looks like you are using Playwright Sync API inside the asyncio loop.
+2026-02-18 02:09:52: 
+2026-02-18 02:10:52: [ERROR] Failed to start browser: It looks like you are using Playwright Sync API inside the asyncio loop.
+2026-02-18 02:10:52: Please use the Async API instead.
+2026-02-18 02:11:52: [ERROR] Failed to start browser: It looks like you are using Playwright Sync API inside the asyncio loop.
+2026-02-18 02:11:52: Please use the Async API instead.
+2026-02-18 02:12:52: [ERROR] Failed to start browser: It looks like you are using Playwright Sync API inside the asyncio loop.
+2026-02-18 02:12:52: Please use the Async API instead.
+2026-02-18 02:13:52: [ERROR] Failed to start browser: It looks like you are using Playwright Sync API inside the asyncio loop.
+2026-02-18 02:13:52: Please use the Async API instead.
+2026-02-18 02:14:52: [ERROR] Failed to start browser: It looks like you are using Playwright Sync API inside the asyncio loop.
+2026-02-18 02:14:52: Please use the Async API instead.
+2026-02-18 02:15:52: [ERROR] Failed to start browser: It looks like you are using Playwright Sync API inside the asyncio loop.
+2026-02-18 02:15:52: Please use the Async API instead.
+2026-02-18 02:16:52: [ERROR] Failed to start browser: It looks like you are using Playwright Sync API inside the asyncio loop.
+2026-02-18 02:16:52: Please use the Async API instead.
+2026-02-18 02:17:52: [ERROR] Failed to start browser: It looks like you are using Playwright Sync API inside the asyncio loop.
+2026-02-18 02:17:52: Please use the Async API instead.
+2026-02-18 02:18:52: [ERROR] Failed to start browser: It looks like you are using Playwright Sync API inside the asyncio loop.
+2026-02-18 02:18:52: Please use the Async API instead.
+2026-02-18 02:19:52: [ERROR] Failed to start browser: It looks like you are using Playwright Sync API inside the asyncio loop.
+2026-02-18 02:19:52: Please use the Async API instead.
+2026-02-18 02:20:52: [ERROR] Failed to start browser: It looks like you are using Playwright Sync API inside the asyncio loop.
+2026-02-18 02:20:52: 
+2026-02-18 02:21:52: [ERROR] Failed to start browser: It looks like you are using Playwright Sync API inside the asyncio loop.
+2026-02-18 02:21:52: Please use the Async API instead.
+2026-02-18 02:22:52: [ERROR] Failed to start browser: It looks like you are using Playwright Sync API inside the asyncio loop.
+2026-02-18 02:22:52: 
+2026-02-18 02:23:52: [ERROR] Failed to start browser: It looks like you are using Playwright Sync API inside the asyncio loop.
+2026-02-18 02:23:52: 
+2026-02-18 02:24:52: [ERROR] Failed to start browser: It looks like you are using Playwright Sync API inside the asyncio loop.
+2026-02-18 02:24:52: Please use the Async API instead.
+2026-02-18 02:25:52: [ERROR] Failed to start browser: It looks like you are using Playwright Sync API inside the asyncio loop.
+2026-02-18 02:25:52: Please use the Async API instead.
+2026-02-18 02:26:52: [ERROR] Failed to start browser: It looks like you are using Playwright Sync API inside the asyncio loop.
+2026-02-18 02:26:52: Please use the Async API instead.
+2026-02-18 02:27:52: [ERROR] Failed to start browser: It looks like you are using Playwright Sync API inside the asyncio loop.
+2026-02-18 02:27:52: Please use the Async API instead.
+2026-02-18 02:28:52: [ERROR] Failed to start browser: It looks like you are using Playwright Sync API inside the asyncio loop.
+2026-02-18 02:28:52: Please use the Async API instead.
+2026-02-18 02:29:52: [ERROR] Failed to start browser: It looks like you are using Playwright Sync API inside the asyncio loop.
+2026-02-18 02:29:52: Please use the Async API instead.
+2026-02-18 02:30:52: [ERROR] Failed to start browser: It looks like you are using Playwright Sync API inside the asyncio loop.
+2026-02-18 02:30:52: Please use the Async API instead.
+2026-02-18 02:31:52: [ERROR] Failed to start browser: It looks like you are using Playwright Sync API inside the asyncio loop.
+2026-02-18 02:31:52: Please use the Async API instead.
+2026-02-18 02:32:52: [ERROR] Failed to start browser: It looks like you are using Playwright Sync API inside the asyncio loop.
+2026-02-18 02:32:52: Please use the Async API instead.
+2026-02-18 02:33:52: [ERROR] Failed to start browser: It looks like you are using Playwright Sync API inside the asyncio loop.
+2026-02-18 02:33:52: 
+2026-02-18 02:34:52: [ERROR] Failed to start browser: It looks like you are using Playwright Sync API inside the asyncio loop.
+2026-02-18 02:34:52: 
+2026-02-18 02:35:52: [ERROR] Failed to start browser: It looks like you are using Playwright Sync API inside the asyncio loop.
+2026-02-18 02:35:52: Please use the Async API instead.
+2026-02-18 02:36:52: [ERROR] Failed to start browser: It looks like you are using Playwright Sync API inside the asyncio loop.
+2026-02-18 02:36:52: Please use the Async API instead.
+2026-02-18 02:37:52: [ERROR] Failed to start browser: It looks like you are using Playwright Sync API inside the asyncio loop.
+2026-02-18 02:37:52: Please use the Async API instead.
+2026-02-18 02:38:52: [ERROR] Failed to start browser: It looks like you are using Playwright Sync API inside the asyncio loop.
+2026-02-18 02:38:52: Please use the Async API instead.
+2026-02-18 02:39:52: [ERROR] Failed to start browser: It looks like you are using Playwright Sync API inside the asyncio loop.
+2026-02-18 02:39:52: Please use the Async API instead.
+2026-02-18 02:40:52: [ERROR] Failed to start browser: It looks like you are using Playwright Sync API inside the asyncio loop.
+2026-02-18 02:40:52: Please use the Async API instead.
+2026-02-18 02:41:52: [ERROR] Failed to start browser: It looks like you are using Playwright Sync API inside the asyncio loop.
+2026-02-18 02:41:52: Please use the Async API instead.
+2026-02-18 02:42:52: [ERROR] Failed to start browser: It looks like you are using Playwright Sync API inside the asyncio loop.
+2026-02-18 02:42:52: Please use the Async API instead.
+2026-02-18 02:43:52: [ERROR] Failed to start browser: It looks like you are using Playwright Sync API inside the asyncio loop.
+2026-02-18 02:43:52: Please use the Async API instead.
+2026-02-18 02:44:52: [ERROR] Failed to start browser: It looks like you are using Playwright Sync API inside the asyncio loop.
+2026-02-18 02:44:52: Please use the Async API instead.
+2026-02-18 02:45:52: [ERROR] Failed to start browser: It looks like you are using Playwright Sync API inside the asyncio loop.
+2026-02-18 02:45:52: 
+2026-02-18 02:46:52: [ERROR] Failed to start browser: It looks like you are using Playwright Sync API inside the asyncio loop.
+2026-02-18 02:46:52: Please use the Async API instead.
+2026-02-18 02:47:52: [ERROR] Failed to start browser: It looks like you are using Playwright Sync API inside the asyncio loop.
+2026-02-18 02:47:52: Please use the Async API instead.
+2026-02-18 02:48:52: [ERROR] Failed to start browser: It looks like you are using Playwright Sync API inside the asyncio loop.
+2026-02-18 02:48:52: 
+2026-02-18 02:49:52: [ERROR] Failed to start browser: It looks like you are using Playwright Sync API inside the asyncio loop.
+2026-02-18 02:49:52: Please use the Async API instead.
+2026-02-18 02:50:52: [ERROR] Failed to start browser: It looks like you are using Playwright Sync API inside the asyncio loop.
+2026-02-18 02:50:52: Please use the Async API instead.
+2026-02-18 02:51:52: [ERROR] Failed to start browser: It looks like you are using Playwright Sync API inside the asyncio loop.
+2026-02-18 02:51:52: 
+2026-02-18 02:52:52: [ERROR] Failed to start browser: It looks like you are using Playwright Sync API inside the asyncio loop.
+2026-02-18 02:52:52: Please use the Async API instead.
+2026-02-18 02:53:52: [ERROR] Failed to start browser: It looks like you are using Playwright Sync API inside the asyncio loop.
+2026-02-18 02:53:52: Please use the Async API instead.
+2026-02-18 02:54:52: [ERROR] Failed to start browser: It looks like you are using Playwright Sync API inside the asyncio loop.
+2026-02-18 02:54:52: 
+2026-02-18 02:55:52: [ERROR] Failed to start browser: It looks like you are using Playwright Sync API inside the asyncio loop.
+2026-02-18 02:55:52: Please use the Async API instead.
+2026-02-18 02:56:52: [ERROR] Failed to start browser: It looks like you are using Playwright Sync API inside the asyncio loop.
+2026-02-18 02:56:52: Please use the Async API instead.
+2026-02-18 02:57:52: [ERROR] Failed to start browser: It looks like you are using Playwright Sync API inside the asyncio loop.
+2026-02-18 02:57:52: 
+2026-02-18 02:58:52: [ERROR] Failed to start browser: It looks like you are using Playwright Sync API inside the asyncio loop.
+2026-02-18 02:58:52: 
+2026-02-18 02:59:52: [ERROR] Failed to start browser: It looks like you are using Playwright Sync API inside the asyncio loop.
+2026-02-18 02:59:52: 
+2026-02-18 03:00:52: [ERROR] Failed to start browser: It looks like you are using Playwright Sync API inside the asyncio loop.
+2026-02-18 03:00:52: Please use the Async API instead.
+2026-02-18 03:01:52: [ERROR] Failed to start browser: It looks like you are using Playwright Sync API inside the asyncio loop.
+2026-02-18 03:01:52: Please use the Async API instead.
+2026-02-18 03:02:52: [ERROR] Failed to start browser: It looks like you are using Playwright Sync API inside the asyncio loop.
+2026-02-18 03:02:52: Please use the Async API instead.
+2026-02-18 03:03:52: [ERROR] Failed to start browser: It looks like you are using Playwright Sync API inside the asyncio loop.
+2026-02-18 03:03:52: Please use the Async API instead.
+2026-02-18 03:04:52: [ERROR] Failed to start browser: It looks like you are using Playwright Sync API inside the asyncio loop.
+2026-02-18 03:04:52: Please use the Async API instead.
+2026-02-18 03:05:52: [ERROR] Failed to start browser: It looks like you are using Playwright Sync API inside the asyncio loop.
+2026-02-18 03:05:52: Please use the Async API instead.
+2026-02-18 03:06:52: [ERROR] Failed to start browser: It looks like you are using Playwright Sync API inside the asyncio loop.
+2026-02-18 03:06:52: Please use the Async API instead.
+2026-02-18 03:07:52: [ERROR] Failed to start browser: It looks like you are using Playwright Sync API inside the asyncio loop.
+2026-02-18 03:07:52: 
+2026-02-18 03:08:53: [ERROR] Failed to start browser: It looks like you are using Playwright Sync API inside the asyncio loop.
+2026-02-18 03:08:53: 
+2026-02-18 03:09:53: [ERROR] Failed to start browser: It looks like you are using Playwright Sync API inside the asyncio loop.
+2026-02-18 03:09:53: Please use the Async API instead.
+2026-02-18 03:10:53: [ERROR] Failed to start browser: It looks like you are using Playwright Sync API inside the asyncio loop.
+2026-02-18 03:10:53: Please use the Async API instead.
+2026-02-18 03:11:53: [ERROR] Failed to start browser: It looks like you are using Playwright Sync API inside the asyncio loop.
+2026-02-18 03:11:53: Please use the Async API instead.
+2026-02-18 03:12:53: [ERROR] Failed to start browser: It looks like you are using Playwright Sync API inside the asyncio loop.
+2026-02-18 03:12:53: Please use the Async API instead.

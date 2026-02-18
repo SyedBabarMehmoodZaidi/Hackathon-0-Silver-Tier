@@ -1,0 +1,50 @@
+{
+  "general": {
+    "debug": false,
+    "dry_run": true,
+    "approval_required": true
+  },
+  "watchers": {
+    "file_drop": {
+      "enabled": true,
+      "watch_folder": "./Incoming_Files",
+      "check_interval": 30
+    },
+    "email": {
+      "enabled": false,
+      "server": "",
+      "username": "",
+      "password_env_var": "EMAIL_PASSWORD"
+    },
+    "whatsapp": {
+      "enabled": false,
+      "idInstance_env_var": "WHATSAPP_ID_INSTANCE",
+      "apiTokenInstance_env_var": "WHATSAPP_API_TOKEN_INSTANCE"
+    }
+  },
+  "claude": {
+    "api_key_env_var": "CLAUDE_API_KEY",
+    "model": "claude-sonnet-4.5"
+  },
+  "mcp_servers": {
+    "email": {
+      "enabled": true,
+      "capabilities": ["send_email"]
+    },
+    "browser": {
+      "enabled": true,
+      "capabilities": ["web_scraping", "form_filling"]
+    },
+    "calendar": {
+      "enabled": true,
+      "capabilities": ["create_event", "check_schedule"]
+    }
+  },
+  "paths": {
+    "needs_action": "./Needs_Action",
+    "approved": "./Approved",
+    "done": "./Done",
+    "logs": "./Logs",
+    "vault": "./Vault"
+  }
+}

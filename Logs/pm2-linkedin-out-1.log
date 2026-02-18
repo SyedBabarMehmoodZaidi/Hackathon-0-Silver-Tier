@@ -1,0 +1,259 @@
+2026-02-17 23:50:00: [START] LinkedIn Watcher starting (interval: 180s)
+2026-02-17 23:50:00: [KEYWORDS] Watching for: ['opportunity', 'lead', 'interest', 'hire']
+2026-02-17 23:50:00: Starting LinkedIn watcher...
+2026-02-17 23:50:02: [BROWSER] Browser started with session: F:\GS Assignment\hackathon-0 emergency backup\practice 2 silver tier\scripts\sessions\linkedin
+2026-02-17 23:50:03: [INIT] LinkedIn Watcher components initialized
+2026-02-17 23:50:03: [CHECK] Scanning LinkedIn for keywords: ['opportunity', 'lead', 'interest', 'hire']
+2026-02-17 23:50:03: [CHECK] Fetching notifications...
+2026-02-17 23:50:46: [ERROR] Fetching notifications failed: Timeout 30000ms exceeded.
+2026-02-17 23:50:46: [CHECK] Fetching messages...
+2026-02-17 23:51:42: [ERROR] Fetching messages failed: Timeout 30000ms exceeded.
+2026-02-17 23:51:42: [CHECK] No items with keywords found
+2026-02-17 23:51:53: [START] LinkedIn Watcher starting (interval: 180s)
+2026-02-17 23:51:53: 
+2026-02-17 23:51:53: Starting LinkedIn watcher...
+2026-02-17 23:51:56: [BROWSER] Browser started with session: F:\GS Assignment\hackathon-0 emergency backup\practice 2 silver tier\scripts\sessions\linkedin
+2026-02-17 23:51:56: [INIT] LinkedIn Watcher components initialized
+2026-02-17 23:51:56: [CHECK] Scanning LinkedIn for keywords: ['opportunity', 'lead', 'interest', 'hire']
+2026-02-17 23:51:56: 
+2026-02-17 23:52:32: [ERROR] Fetching notifications failed: Timeout 30000ms exceeded.
+2026-02-17 23:52:32: [CHECK] Fetching messages...
+2026-02-17 23:53:04: [ERROR] Fetching messages failed: Timeout 30000ms exceeded.
+2026-02-17 23:53:04: [CHECK] No items with keywords found
+2026-02-17 23:56:04: [CHECK] Scanning LinkedIn for keywords: ['opportunity', 'lead', 'interest', 'hire']
+2026-02-17 23:56:04: [CHECK] Fetching notifications...
+2026-02-17 23:56:37: [ERROR] Fetching notifications failed: Timeout 30000ms exceeded.
+2026-02-17 23:56:37: [CHECK] Fetching messages...
+2026-02-17 23:57:08: [ERROR] Fetching messages failed: Timeout 30000ms exceeded.
+2026-02-17 23:57:08: [CHECK] No items with keywords found
+2026-02-18 00:00:08: [CHECK] Scanning LinkedIn for keywords: ['opportunity', 'lead', 'interest', 'hire']
+2026-02-18 00:00:08: [CHECK] Fetching notifications...
+2026-02-18 00:00:41: [ERROR] Fetching notifications failed: Timeout 30000ms exceeded.
+2026-02-18 00:00:41: [CHECK] Fetching messages...
+2026-02-18 00:01:14: [ERROR] Fetching messages failed: Timeout 30000ms exceeded.
+2026-02-18 00:01:14: [CHECK] No items with keywords found
+2026-02-18 00:04:14: [CHECK] Scanning LinkedIn for keywords: ['opportunity', 'lead', 'interest', 'hire']
+2026-02-18 00:04:14: [CHECK] Fetching notifications...
+2026-02-18 00:04:47: [ERROR] Fetching notifications failed: Timeout 30000ms exceeded.
+2026-02-18 00:04:47: 
+2026-02-18 00:04:47: [CHECK] Fetching messages...
+2026-02-18 00:05:19: [ERROR] Fetching messages failed: Timeout 30000ms exceeded.
+2026-02-18 00:05:19: [CHECK] No items with keywords found
+2026-02-18 00:08:19: [CHECK] Scanning LinkedIn for keywords: ['opportunity', 'lead', 'interest', 'hire']
+2026-02-18 00:08:19: [CHECK] Fetching notifications...
+2026-02-18 00:08:53: [ERROR] Fetching notifications failed: Timeout 30000ms exceeded.
+2026-02-18 00:08:53: [CHECK] Fetching messages...
+2026-02-18 00:09:26: [ERROR] Fetching messages failed: Timeout 30000ms exceeded.
+2026-02-18 00:09:26: 
+2026-02-18 00:12:26: [CHECK] Scanning LinkedIn for keywords: ['opportunity', 'lead', 'interest', 'hire']
+2026-02-18 00:12:26: 
+2026-02-18 00:12:26: [CHECK] Fetching notifications...
+2026-02-18 00:13:02: [ERROR] Fetching notifications failed: Timeout 30000ms exceeded.
+2026-02-18 00:13:02: 
+2026-02-18 00:13:02: 
+2026-02-18 00:13:37: [ERROR] Fetching messages failed: Timeout 30000ms exceeded.
+2026-02-18 00:13:37: [CHECK] No items with keywords found
+2026-02-18 00:15:49: [START] LinkedIn Watcher starting (interval: 180s)
+2026-02-18 00:15:49: [KEYWORDS] Watching for: ['opportunity', 'lead', 'interest', 'hire']
+2026-02-18 00:15:49: Starting LinkedIn watcher...
+2026-02-18 00:15:52: [ERROR] Failed to start browser: BrowserType.launch_persistent_context: Target page, context or browser has been closed
+2026-02-18 00:15:52: Browser logs:
+2026-02-18 00:15:52: 
+2026-02-18 00:15:52: <launching> C:\Users\pc\AppData\Local\ms-playwright\chromium-1208\chrome-win64\chrome.exe --disable-field-trial-config --disable-background-networking --disable-background-timer-throttling --disable-backgrounding-occluded-windows --disable-back-forward-cache --disable-breakpad --disable-client-side-phishing-detection --disable-component-extensions-with-background-pages --disable-component-update --no-default-browser-check --disable-default-apps --disable-dev-shm-usage --disable-extensions --disable-features=AvoidUnnecessaryBeforeUnloadCheckSync,BoundaryEventDispatchTracksNodeRemoval,DestroyProfileOnBrowserClose,DialMediaRouteProvider,GlobalMediaControls,HttpsUpgrades,LensOverlay,MediaRouter,PaintHolding,ThirdPartyStoragePartitioning,Translate,AutoDeElevate,RenderDocument,OptimizationHints --enable-features=CDPScreenshotNewSurface --allow-pre-commit-input --disable-hang-monitor --disable-ipc-flooding-protection --disable-popup-blocking --disable-prompt-on-repost --disable-renderer-backgrounding --force-color-profile=srgb --metrics-recording-only --no-first-run --password-store=basic --use-mock-keychain --no-service-autorun --export-tagged-pdf --disable-search-engine-choice-screen --unsafely-disable-devtools-self-xss-warnings --edge-skip-compat-layer-relaunch --disable-infobars --disable-search-engine-choice-screen --disable-sync --enable-unsafe-swiftshader --no-sandbox --disable-blink-features=AutomationControlled --disable-dev-shm-usage --no-sandbox --user-data-dir=F:\GS Assignment\hackathon-0 emergency backup\practice 2 silver tier\scripts\sessions\linkedin --remote-debugging-pipe about:blank
+2026-02-18 00:15:52: <launched> pid=191088
+2026-02-18 00:15:52: [pid=191088][out] Opening in existing browser session.
+2026-02-18 00:15:52: Call log:
+2026-02-18 00:15:52:   - <launching> C:\Users\pc\AppData\Local\ms-playwright\chromium-1208\chrome-win64\chrome.exe --disable-field-trial-config --disable-background-networking --disable-background-timer-throttling --disable-backgrounding-occluded-windows --disable-back-forward-cache --disable-breakpad --disable-client-side-phishing-detection --disable-component-extensions-with-background-pages --disable-component-update --no-default-browser-check --disable-default-apps --disable-dev-shm-usage --disable-extensions --disable-features=AvoidUnnecessaryBeforeUnloadCheckSync,BoundaryEventDispatchTracksNodeRemoval,DestroyProfileOnBrowserClose,DialMediaRouteProvider,GlobalMediaControls,HttpsUpgrades,LensOverlay,MediaRouter,PaintHolding,ThirdPartyStoragePartitioning,Translate,AutoDeElevate,RenderDocument,OptimizationHints --enable-features=CDPScreenshotNewSurface --allow-pre-commit-input --disable-hang-monitor --disable-ipc-flooding-protection --disable-popup-blocking --disable-prompt-on-repost --disable-renderer-backgrounding --force-color-profile=srgb --metrics-recording-only --no-first-run --password-store=basic --use-mock-keychain --no-service-autorun --export-tagged-pdf --disable-search-engine-choice-screen --unsafely-disable-devtools-self-xss-warnings --edge-skip-compat-layer-relaunch --disable-infobars --disable-search-engine-choice-screen --disable-sync --enable-unsafe-swiftshader --no-sandbox --disable-blink-features=AutomationControlled --disable-dev-shm-usage --no-sandbox --user-data-dir=F:\GS Assignment\hackathon-0 emergency backup\practice 2 silver tier\scripts\sessions\linkedin --remote-debugging-pipe about:blank
+2026-02-18 00:15:52:   - <launched> pid=191088
+2026-02-18 00:15:52:   - [pid=191088][out] Opening in existing browser session.
+2026-02-18 00:15:52:   - [pid=191088] <gracefully close start>
+2026-02-18 00:15:52:   - [pid=191088] <kill>
+2026-02-18 00:15:52:   - [pid=191088] <will force kill>
+2026-02-18 00:15:52:   - [pid=191088] taskkill stderr: ERROR: The process "191088" not found.
+2026-02-18 00:15:52:   - [pid=191088] <process did exit: exitCode=0, signal=null>
+2026-02-18 00:15:52:   - [pid=191088] starting temporary directories cleanup
+2026-02-18 00:15:52:   - [pid=191088] finished temporary directories cleanup
+2026-02-18 00:15:52:   - [pid=191088] <gracefully close end>
+2026-02-18 00:15:52: 
+2026-02-18 00:15:52: [ERROR] Failed to start browser
+2026-02-18 00:18:52: [ERROR] Failed to start browser: It looks like you are using Playwright Sync API inside the asyncio loop.
+2026-02-18 00:18:52: Please use the Async API instead.
+2026-02-18 00:18:52: [ERROR] Failed to start browser
+2026-02-18 00:21:52: [ERROR] Failed to start browser: It looks like you are using Playwright Sync API inside the asyncio loop.
+2026-02-18 00:21:52: 
+2026-02-18 00:21:52: [ERROR] Failed to start browser
+2026-02-18 00:24:52: [ERROR] Failed to start browser: It looks like you are using Playwright Sync API inside the asyncio loop.
+2026-02-18 00:24:52: Please use the Async API instead.
+2026-02-18 00:24:52: [ERROR] Failed to start browser
+2026-02-18 00:27:52: [ERROR] Failed to start browser: It looks like you are using Playwright Sync API inside the asyncio loop.
+2026-02-18 00:27:52: Please use the Async API instead.
+2026-02-18 00:27:52: [ERROR] Failed to start browser
+2026-02-18 00:30:52: [ERROR] Failed to start browser: It looks like you are using Playwright Sync API inside the asyncio loop.
+2026-02-18 00:30:52: Please use the Async API instead.
+2026-02-18 00:30:52: [ERROR] Failed to start browser
+2026-02-18 00:33:52: [ERROR] Failed to start browser: It looks like you are using Playwright Sync API inside the asyncio loop.
+2026-02-18 00:33:52: 
+2026-02-18 00:33:52: 
+2026-02-18 00:36:52: [ERROR] Failed to start browser: It looks like you are using Playwright Sync API inside the asyncio loop.
+2026-02-18 00:36:52: 
+2026-02-18 00:36:52: [ERROR] Failed to start browser
+2026-02-18 00:39:52: [ERROR] Failed to start browser: It looks like you are using Playwright Sync API inside the asyncio loop.
+2026-02-18 00:39:52: Please use the Async API instead.
+2026-02-18 00:39:52: [ERROR] Failed to start browser
+2026-02-18 00:42:52: [ERROR] Failed to start browser: It looks like you are using Playwright Sync API inside the asyncio loop.
+2026-02-18 00:42:52: Please use the Async API instead.
+2026-02-18 00:42:52: [ERROR] Failed to start browser
+2026-02-18 00:45:52: [ERROR] Failed to start browser: It looks like you are using Playwright Sync API inside the asyncio loop.
+2026-02-18 00:45:52: 
+2026-02-18 00:45:52: [ERROR] Failed to start browser
+2026-02-18 00:45:52: 
+2026-02-18 00:48:52: [ERROR] Failed to start browser: It looks like you are using Playwright Sync API inside the asyncio loop.
+2026-02-18 00:48:52: Please use the Async API instead.
+2026-02-18 00:48:52: [ERROR] Failed to start browser
+2026-02-18 00:51:52: [ERROR] Failed to start browser: It looks like you are using Playwright Sync API inside the asyncio loop.
+2026-02-18 00:51:52: Please use the Async API instead.
+2026-02-18 00:51:52: [ERROR] Failed to start browser
+2026-02-18 00:54:52: [ERROR] Failed to start browser: It looks like you are using Playwright Sync API inside the asyncio loop.
+2026-02-18 00:54:52: Please use the Async API instead.
+2026-02-18 00:54:52: [ERROR] Failed to start browser
+2026-02-18 00:57:52: [ERROR] Failed to start browser: It looks like you are using Playwright Sync API inside the asyncio loop.
+2026-02-18 00:57:52: Please use the Async API instead.
+2026-02-18 00:57:52: [ERROR] Failed to start browser
+2026-02-18 01:00:52: [ERROR] Failed to start browser: It looks like you are using Playwright Sync API inside the asyncio loop.
+2026-02-18 01:00:52: Please use the Async API instead.
+2026-02-18 01:00:52: [ERROR] Failed to start browser
+2026-02-18 01:03:52: [ERROR] Failed to start browser: It looks like you are using Playwright Sync API inside the asyncio loop.
+2026-02-18 01:03:52: Please use the Async API instead.
+2026-02-18 01:03:52: [ERROR] Failed to start browser
+2026-02-18 01:06:52: [ERROR] Failed to start browser: It looks like you are using Playwright Sync API inside the asyncio loop.
+2026-02-18 01:06:52: Please use the Async API instead.
+2026-02-18 01:06:52: [ERROR] Failed to start browser
+2026-02-18 01:09:52: [ERROR] Failed to start browser: It looks like you are using Playwright Sync API inside the asyncio loop.
+2026-02-18 01:09:52: Please use the Async API instead.
+2026-02-18 01:09:52: [ERROR] Failed to start browser
+2026-02-18 01:12:52: [ERROR] Failed to start browser: It looks like you are using Playwright Sync API inside the asyncio loop.
+2026-02-18 01:12:52: Please use the Async API instead.
+2026-02-18 01:12:52: [ERROR] Failed to start browser
+2026-02-18 01:15:52: [ERROR] Failed to start browser: It looks like you are using Playwright Sync API inside the asyncio loop.
+2026-02-18 01:15:52: Please use the Async API instead.
+2026-02-18 01:15:52: [ERROR] Failed to start browser
+2026-02-18 01:18:52: [ERROR] Failed to start browser: It looks like you are using Playwright Sync API inside the asyncio loop.
+2026-02-18 01:18:52: Please use the Async API instead.
+2026-02-18 01:18:52: [ERROR] Failed to start browser
+2026-02-18 01:21:52: [ERROR] Failed to start browser: It looks like you are using Playwright Sync API inside the asyncio loop.
+2026-02-18 01:21:52: Please use the Async API instead.
+2026-02-18 01:21:52: [ERROR] Failed to start browser
+2026-02-18 01:24:52: [ERROR] Failed to start browser: It looks like you are using Playwright Sync API inside the asyncio loop.
+2026-02-18 01:24:52: Please use the Async API instead.
+2026-02-18 01:24:52: [ERROR] Failed to start browser
+2026-02-18 01:27:52: [ERROR] Failed to start browser: It looks like you are using Playwright Sync API inside the asyncio loop.
+2026-02-18 01:27:52: Please use the Async API instead.
+2026-02-18 01:27:52: [ERROR] Failed to start browser
+2026-02-18 01:30:52: [ERROR] Failed to start browser: It looks like you are using Playwright Sync API inside the asyncio loop.
+2026-02-18 01:30:52: Please use the Async API instead.
+2026-02-18 01:30:52: [ERROR] Failed to start browser
+2026-02-18 01:33:52: [ERROR] Failed to start browser: It looks like you are using Playwright Sync API inside the asyncio loop.
+2026-02-18 01:33:52: Please use the Async API instead.
+2026-02-18 01:33:52: [ERROR] Failed to start browser
+2026-02-18 01:36:52: [ERROR] Failed to start browser: It looks like you are using Playwright Sync API inside the asyncio loop.
+2026-02-18 01:36:52: Please use the Async API instead.
+2026-02-18 01:36:52: [ERROR] Failed to start browser
+2026-02-18 01:39:52: [ERROR] Failed to start browser: It looks like you are using Playwright Sync API inside the asyncio loop.
+2026-02-18 01:39:52: Please use the Async API instead.
+2026-02-18 01:39:52: [ERROR] Failed to start browser
+2026-02-18 01:42:52: [ERROR] Failed to start browser: It looks like you are using Playwright Sync API inside the asyncio loop.
+2026-02-18 01:42:52: Please use the Async API instead.
+2026-02-18 01:42:52: [ERROR] Failed to start browser
+2026-02-18 01:45:52: [ERROR] Failed to start browser: It looks like you are using Playwright Sync API inside the asyncio loop.
+2026-02-18 01:45:52: 
+2026-02-18 01:45:52: [ERROR] Failed to start browser
+2026-02-18 01:48:52: [ERROR] Failed to start browser: It looks like you are using Playwright Sync API inside the asyncio loop.
+2026-02-18 01:48:52: 
+2026-02-18 01:48:52: [ERROR] Failed to start browser
+2026-02-18 01:48:52: 
+2026-02-18 01:51:52: [ERROR] Failed to start browser: It looks like you are using Playwright Sync API inside the asyncio loop.
+2026-02-18 01:51:52: Please use the Async API instead.
+2026-02-18 01:51:52: [ERROR] Failed to start browser
+2026-02-18 01:54:52: [ERROR] Failed to start browser: It looks like you are using Playwright Sync API inside the asyncio loop.
+2026-02-18 01:54:52: Please use the Async API instead.
+2026-02-18 01:54:52: [ERROR] Failed to start browser
+2026-02-18 01:57:52: [ERROR] Failed to start browser: It looks like you are using Playwright Sync API inside the asyncio loop.
+2026-02-18 01:57:52: Please use the Async API instead.
+2026-02-18 01:57:52: [ERROR] Failed to start browser
+2026-02-18 02:00:52: [ERROR] Failed to start browser: It looks like you are using Playwright Sync API inside the asyncio loop.
+2026-02-18 02:00:52: Please use the Async API instead.
+2026-02-18 02:00:52: [ERROR] Failed to start browser
+2026-02-18 02:03:52: [ERROR] Failed to start browser: It looks like you are using Playwright Sync API inside the asyncio loop.
+2026-02-18 02:03:52: Please use the Async API instead.
+2026-02-18 02:03:52: [ERROR] Failed to start browser
+2026-02-18 02:06:52: [ERROR] Failed to start browser: It looks like you are using Playwright Sync API inside the asyncio loop.
+2026-02-18 02:06:52: Please use the Async API instead.
+2026-02-18 02:06:52: [ERROR] Failed to start browser
+2026-02-18 02:09:52: [ERROR] Failed to start browser: It looks like you are using Playwright Sync API inside the asyncio loop.
+2026-02-18 02:09:52: Please use the Async API instead.
+2026-02-18 02:09:52: [ERROR] Failed to start browser
+2026-02-18 02:12:52: [ERROR] Failed to start browser: It looks like you are using Playwright Sync API inside the asyncio loop.
+2026-02-18 02:12:52: Please use the Async API instead.
+2026-02-18 02:12:52: [ERROR] Failed to start browser
+2026-02-18 02:15:52: [ERROR] Failed to start browser: It looks like you are using Playwright Sync API inside the asyncio loop.
+2026-02-18 02:15:52: Please use the Async API instead.
+2026-02-18 02:15:52: [ERROR] Failed to start browser
+2026-02-18 02:18:52: [ERROR] Failed to start browser: It looks like you are using Playwright Sync API inside the asyncio loop.
+2026-02-18 02:18:52: Please use the Async API instead.
+2026-02-18 02:18:52: [ERROR] Failed to start browser
+2026-02-18 02:21:52: [ERROR] Failed to start browser: It looks like you are using Playwright Sync API inside the asyncio loop.
+2026-02-18 02:21:52: Please use the Async API instead.
+2026-02-18 02:21:52: [ERROR] Failed to start browser
+2026-02-18 02:24:52: [ERROR] Failed to start browser: It looks like you are using Playwright Sync API inside the asyncio loop.
+2026-02-18 02:24:52: 
+2026-02-18 02:24:52: [ERROR] Failed to start browser
+2026-02-18 02:27:52: [ERROR] Failed to start browser: It looks like you are using Playwright Sync API inside the asyncio loop.
+2026-02-18 02:27:52: Please use the Async API instead.
+2026-02-18 02:27:52: [ERROR] Failed to start browser
+2026-02-18 02:30:52: [ERROR] Failed to start browser: It looks like you are using Playwright Sync API inside the asyncio loop.
+2026-02-18 02:30:52: Please use the Async API instead.
+2026-02-18 02:30:52: [ERROR] Failed to start browser
+2026-02-18 02:33:52: [ERROR] Failed to start browser: It looks like you are using Playwright Sync API inside the asyncio loop.
+2026-02-18 02:33:52: 
+2026-02-18 02:33:52: [ERROR] Failed to start browser
+2026-02-18 02:36:52: [ERROR] Failed to start browser: It looks like you are using Playwright Sync API inside the asyncio loop.
+2026-02-18 02:36:52: Please use the Async API instead.
+2026-02-18 02:36:52: [ERROR] Failed to start browser
+2026-02-18 02:39:52: [ERROR] Failed to start browser: It looks like you are using Playwright Sync API inside the asyncio loop.
+2026-02-18 02:39:52: 
+2026-02-18 02:39:52: [ERROR] Failed to start browser
+2026-02-18 02:42:52: [ERROR] Failed to start browser: It looks like you are using Playwright Sync API inside the asyncio loop.
+2026-02-18 02:42:52: Please use the Async API instead.
+2026-02-18 02:42:52: [ERROR] Failed to start browser
+2026-02-18 02:45:52: [ERROR] Failed to start browser: It looks like you are using Playwright Sync API inside the asyncio loop.
+2026-02-18 02:45:52: 
+2026-02-18 02:45:52: [ERROR] Failed to start browser
+2026-02-18 02:48:52: [ERROR] Failed to start browser: It looks like you are using Playwright Sync API inside the asyncio loop.
+2026-02-18 02:48:52: 
+2026-02-18 02:48:52: [ERROR] Failed to start browser
+2026-02-18 02:51:52: [ERROR] Failed to start browser: It looks like you are using Playwright Sync API inside the asyncio loop.
+2026-02-18 02:51:52: Please use the Async API instead.
+2026-02-18 02:51:52: [ERROR] Failed to start browser
+2026-02-18 02:54:52: [ERROR] Failed to start browser: It looks like you are using Playwright Sync API inside the asyncio loop.
+2026-02-18 02:54:52: 
+2026-02-18 02:54:52: [ERROR] Failed to start browser
+2026-02-18 02:57:52: [ERROR] Failed to start browser: It looks like you are using Playwright Sync API inside the asyncio loop.
+2026-02-18 02:57:52: 
+2026-02-18 02:57:52: [ERROR] Failed to start browser
+2026-02-18 02:57:52: 
+2026-02-18 03:00:52: [ERROR] Failed to start browser: It looks like you are using Playwright Sync API inside the asyncio loop.
+2026-02-18 03:00:52: 
+2026-02-18 03:00:52: [ERROR] Failed to start browser
+2026-02-18 03:00:52: 
+2026-02-18 03:03:52: [ERROR] Failed to start browser: It looks like you are using Playwright Sync API inside the asyncio loop.
+2026-02-18 03:03:52: 
+2026-02-18 03:03:52: [ERROR] Failed to start browser
+2026-02-18 03:06:52: [ERROR] Failed to start browser: It looks like you are using Playwright Sync API inside the asyncio loop.
+2026-02-18 03:06:52: Please use the Async API instead.
+2026-02-18 03:06:52: [ERROR] Failed to start browser
+2026-02-18 03:09:52: [ERROR] Failed to start browser: It looks like you are using Playwright Sync API inside the asyncio loop.
+2026-02-18 03:09:52: Please use the Async API instead.
+2026-02-18 03:09:52: [ERROR] Failed to start browser
+2026-02-18 03:12:52: [ERROR] Failed to start browser: It looks like you are using Playwright Sync API inside the asyncio loop.
+2026-02-18 03:12:52: Please use the Async API instead.
+2026-02-18 03:12:52: [ERROR] Failed to start browser

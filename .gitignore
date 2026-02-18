@@ -1,0 +1,50 @@
+# Python / Development
+__pycache__/
+*.py[cod]
+*$py.class
+*.egg-info/
+dist/
+build/
+*.egg
+.env
+.env.example 
+.venv/
+venv/
+$null
+ENV/
+pip-log.txt
+pip-delete-this-directory.txt
+
+# Secrets & Credentials (BOHOT IMPORTANT!)
+credentials.json
+token.json
+*.key
+*.pem
+*.secret
+*.password
+*.token
+*.apikey
+*.env
+.env.*
+secrets/
+config/secrets/
+
+# Node.js / MCP / npm related
+node_modules/
+npm-debug.log
+yarn-error.log
+package-lock.json   # agar yarn use kar rahe ho to isko mat ignore karna
+yarn.lock
+
+# PM2 / Process Manager
+.pm2/
+pm2.log
+
+*.pdf
+*.zip
+*.rar
+*.7z
+*.exe
+*.dll
+*.so
+*.dylib

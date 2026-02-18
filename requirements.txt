@@ -1,0 +1,19 @@
+watchdog>=3.0.0
+anthropic>=0.21.0
+python-dotenv>=1.0.0
+requests>=2.31.0
+
+# Gmail API dependencies
+google-auth>=2.23.0
+google-auth-oauthlib>=1.1.0
+google-auth-httplib2>=0.1.1
+google-api-python-client>=2.100.0
+
+# WhatsApp API dependencies
+greenapi>=1.0.0
+
+# LinkedIn Watcher (Playwright)
+playwright>=1.40.0
+
+# Daily Briefing
+anthropic>=0.21.0
